@@ -16,7 +16,7 @@
 <p><strong>👋 Olá, seja bem-vindo(a) ao meu cantinho no GitHub!</strong></p>
 
 <div> 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Mão acenando" width="25" height="25" />&nbsp; Meu nome é **Tâmara Thais** , mas pode me chamar de **Thais Ruby**! Sou uma entusiasta da tecnologia e estudante de **Análise e Desenvolvimento de Sistemas**.<br />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Mão acenando" width="25" height="25" />&nbsp; Meu nome é Tâmara Thais , mas pode me chamar de **Thais Ruby**! Sou uma entusiasta da tecnologia e estudante de **Análise e Desenvolvimento de Sistemas**.<br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Cérebro" width="25" height="25" />&nbsp; Atualmente, estou focada em me tornar uma **Desenvolvedora Mobile**, explorando o mundo do desenvolvimento de aplicativos e suas infinitas possibilidades.<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Mulher programadora" width="25" height="25" />&nbsp; Minha stack principal inclui **HTML, CSS, JavaScript e Java**, mas estou sempre aberta a aprender novas tecnologias.<br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Girl%20Light%20Skin%20Tone.png" alt="Menina" width="25" height="25" />&nbsp; Acredito que a tecnologia é uma ferramenta poderosa para transformar vidas, e adoro colaborar em projetos que tenham um impacto positivo.<br />
@@ -37,7 +37,7 @@
 
   <h3>📫 Vamos conversar?</h3>
   <div align="left">
-    <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail"></a>
-    <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;" alt="LinkedIn"></a>
+    <a href="t.thais@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail"></a>
+
   </div>
 </div>
