@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rubythais/rubythais/blob/main/assets/Fun%20Pastel%20Purple%20Gaming%20Twitch%20Banner.png?raw=true" alt="Banner Tâmara Thais LC" />
+ <img src="https://github.com/rubythais/rubythais/blob/main/assets/Fun%20Pastel%20Purple%20Gaming%20Twitch%20Banner.png?raw=true" alt="Banner Tâmara Thais LC" />
 </div>
 
 <h3 align="center" style="color: #9D50BB;">
