@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://github.com/rubythais/rubythais/blob/main/assets/banner-purple-tamara-thais.png?raw=true" alt="Banner Tâmara Thais LC" />
+  <img src="https://github.com/rubythais/rubythais/blob/main/assets/Fun%20Pastel%20Purple%20Gaming%20Twitch%20Banner.png?raw=true" alt="Banner Tâmara Thais LC" />
 </div>
 
-<h3 align="center">
+<h3 align="center" style="color: #9D50BB;">
   Desenvolvedora Web • Estudante de ADS • Apaixonada por Tecnologia
 </h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubythais&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubythais&theme=merko&hide_border=true&bg_color=0d1117&color=9D50BB&line=6E48AA" />
 
 <div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rubythais&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubythais&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rubythais&show_icons=true&count_private=true&title_color=9D50BB&icon_color=6E48AA&text_color=c9d1d9&bg_color=0d1117&border_color=9D50BB" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubythais&layout=compact&title_color=9D50BB&text_color=c9d1d9&bg_color=0d1117&border_color=9D50BB" />
 </div>
 
 <p><strong>👋 Olá, seja bem-vindo(a) ao meu cantinho no GitHub!</strong></p>
@@ -37,6 +37,6 @@
 
   <h3>📫 Vamos conversar?</h3>
   <div align="left">
-    <a href="t.thais@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail"></a>
+    <a href="t.thais@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:9D50BB" alt="E-mail"></a>
   </div>
 </div>
