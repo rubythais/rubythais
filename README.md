@@ -1,6 +1,3 @@
-<div align="center">
- <img src="https://github.com/rubythais/rubythais/blob/main/assets/Fun%20Pastel%20Purple%20Gaming%20Twitch%20Banner.png?raw=true" />
-</div>
 
 <h3 align="center" style="color: #9D50BB;">
   Desenvolvedora Web • Estudante de ADS • Apaixonada por Tecnologia
