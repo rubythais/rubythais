@@ -1,5 +1,5 @@
 <div align= 'center'> 
-C:\Users\TAMARA\Downloads\Fun Pastel Purple Gaming Twitch Banner.png
+![Fun Pastel Purple Gaming Twitch Banner](https://github.com/user-attachments/assets/aace3beb-1dc3-4c49-9acc-460772feb137)
 </div>
 <h3 align="center" style="color: #9D50BB;">
   Desenvolvedora Web • Estudante de ADS • Amante de tecnologia e artes visuais 
