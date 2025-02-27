@@ -1,5 +1,5 @@
 <div align= 'center'> 
-!(https://github.com/user-attachments/assets/d68c9cc3-5e3d-496a-851c-dd4458ccf7ae)
+(https://github.com/user-attachments/assets/d68c9cc3-5e3d-496a-851c-dd4458ccf7ae)
 </div>
 <h3 align="center" style="color: #9D50BB;">
   Desenvolvedora Web • Estudante de ADS • Amante de tecnologia e artes visuais 
