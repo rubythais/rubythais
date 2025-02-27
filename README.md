@@ -1,5 +1,5 @@
 <div align= 'center'> 
-<img src= [![Uploading Fun Pastel Purple Gaming Twitch Banner.png…]()](https://github.com/rubythais/rubythais/issues/2#issue-2876210233) />
+![Banner do YouTube Tecnologia Digital Glitch Preto Roxo](https://github.com/user-attachments/assets/d68c9cc3-5e3d-496a-851c-dd4458ccf7ae)
 </div>
 <h3 align="center" style="color: #9D50BB;">
   Desenvolvedora Web • Estudante de ADS • Amante de tecnologia e artes visuais 
