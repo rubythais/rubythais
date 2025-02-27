@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LINK_DA_IMAGEM" alt="Ruby's Git Banner" width="100%"/>
+  <img src="[LINK_DA_IMAGEM](https://github.com/rubythais/rubythais/issues/3#issue-2884559003)" alt="Ruby's Git Banner" width="100%"/>
 </div>
 <h3 align="center" style="color: #9D50BB;">
   Desenvolvedora Web • Estudante de ADS • Amante de tecnologia e artes visuais 
