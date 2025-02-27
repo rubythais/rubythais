@@ -1,5 +1,5 @@
-<div align= 'center'> 
-![Fun Pastel Purple Gaming Twitch Banner](https://github.com/user-attachments/assets/aace3beb-1dc3-4c49-9acc-460772feb137)
+<div align="center">
+  <img src="LINK_DA_IMAGEM" alt="Ruby's Git Banner" width="100%"/>
 </div>
 <h3 align="center" style="color: #9D50BB;">
   Desenvolvedora Web • Estudante de ADS • Amante de tecnologia e artes visuais 
