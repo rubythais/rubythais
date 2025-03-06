@@ -11,7 +11,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubythais&layout=compact&title_color=9D50BB&text_color=c9d1d9&bg_color=0d1117&border_color=9D50BB" />
 </div>
 
-<p><strong>👋 Olá, seja bem-vindo(a) ao meu cantinho no GitHub!</strong></p>
+<p>👋 Olá, seja bem-vindo(a) ao meu cantinho no GitHub!></p>
 
 
   ## &nbsp;🛠️ Tecnologias que uso
