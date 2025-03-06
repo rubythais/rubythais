@@ -1,4 +1,5 @@
-<p>👋 Olá, seja bem-vindo(a) ao meu cantinho no GitHub!</p>
+ <div align="center">👋 Olá, seja bem-vindo(a) ao meu cantinho no GitHub!</p>
+ </div>
 
 <h3 align="center" style="color: #9D50BB;">
   Desenvolvedora Web • Estudante de ADS • Amante de tecnologia e artes visuais 
