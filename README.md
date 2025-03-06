@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/187284562/417615341-af41800c-3e1d-483c-bfbc-0f6bdd3d0b42.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA2NjQ2NzQsIm5iZiI6MTc0MDY2NDM3NCwicGF0aCI6Ii8xODcyODQ1NjIvNDE3NjE1MzQxLWFmNDE4MDBjLTNlMWQtNDgzYy1iZmJjLTBmNmJkZDNkMGI0Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyN1QxMzUyNTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZjllMjNjY2ZmZDk4NGYwMjhhMGUzMDM1YmI0MzA0ZWFlYTY3NjBkYjkxNmNjODY3OTJjZmFjYTQ1NWJiNGEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xiJi2Eoo6LK2R0tLIvafOCyBYZYl65m9hZtBtAHRkjs" width="80%"/>
-</div>
+
 
 <h3 align="center" style="color: #9D50BB;">
   Desenvolvedora Web • Estudante de ADS • Amante de tecnologia e artes visuais 
@@ -15,14 +13,6 @@
 
 <p><strong>👋 Olá, seja bem-vindo(a) ao meu cantinho no GitHub!</strong></p>
 
-<div> 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Mão acenando" width="25" height="25" />&nbsp; Meu nome é Tâmara Thais, mas pode me chamar de Thais ou Ruby! Sou uma entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas apaixonada por design.<br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Cérebro" width="25" height="25" />&nbsp; Atualmente, estou focada em adiquirir experiências, explorando o cloud computing, web design e todas as infinitas possibilidades que a tecnologia proporciona dia após dia. .<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Mulher programadora" width="25" height="25" />&nbsp; Além de estar sempre aberta a aprender novas tecnologias, valorizo muito as experiências interpessoais que a área de tecnologia proporciona. Acredito que a troca de conhecimentos e a colaboração são essenciais para o crescimento profissional e pessoal. Adoro participar de comunidades tech, onde posso conhecer pessoas, trocar ideias e explorar novas perspectivas..<br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Girl%20Light%20Skin%20Tone.png" alt="Menina" width="25" height="25" />&nbsp; Acredito que a tecnologia é uma ferramenta poderosa para transformar vidas, e adoro colaborar em projetos que tenham um impacto positivo.<br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Professor" width="25" height="25" />&nbsp; Atualmente, estudo no Instituto Federal do Rio Grande do Norte (IFRN), onde tenho a oportunidade de mergulhar fundo no mundo da programação e desenvolvimento.
-
-<br/><br/>
 
   ## &nbsp;🛠️ Tecnologias que uso
   
