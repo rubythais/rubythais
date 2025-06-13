@@ -2,7 +2,7 @@
 </div>
 
 <h3 align="center" style="color: #9D50BB;">
-  Desenvolvedora Web • Estudante de ADS • Amante de artes visuais • Foco em Design, front-end e prototipação UX/UI
+Estudante de ADS • Amante de artes visuais/tecnologias • Foco em Design e prototipação UX/UI
 </h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubythais&theme=merko&hide_border=true&bg_color=0d1117&color=9D50BB&line=6E48AA" />
