@@ -11,12 +11,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubythais&theme=merko&hide_border=true&bg_color=0d1117&color=9D50BB&line=6E48AA" alt="Gráfico de atividade" />
 </p>
 
-<!-- Estatísticas -->
-<div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rubythais&show_icons=true&count_private=true&title_color=9D50BB&icon_color=6E48AA&text_color=c9d1d9&bg_color=0d1117&border_color=9D50BB" alt="Estatísticas GitHub" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubythais&layout=compact&langs_count=10&hide=css,scss&title_color=9D50BB&text_color=c9d1d9&bg_color=0d1117&border_color=9D50BB" alt="Linguagens mais usadas" />
-</div>
-
 ---
 
 ## Tecnologias em estudo
