@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🐈 Seja bem-vindo(a) ao meu cantinho no GitHub!</h1>
+  <h1> Seja bem-vindo(a) ao meu cantinho no GitHub!</h1>
 </div>
 
 <h3 align="center" style="color: #9D50BB;">
@@ -16,7 +16,7 @@
 ## Tecnologias em estudo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,python,html,css,cpp,java,django,tailwind" alt="Tecnologias em estudo" />
+  <img src="https://skillicons.dev/icons?i=figma,python,html,css,java,django,tailwind" alt="Tecnologias em estudo" />
 </p>
 
 ---
