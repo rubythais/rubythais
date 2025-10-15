@@ -16,7 +16,7 @@
 ## Tecnologias em estudo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,python,html,css,java,django,tailwind" alt="Tecnologias em estudo" />
+  <img src="https://skillicons.dev/icons?i=figma,python,html,css,javascript,java,django,tailwindt" alt="Tecnologias em estudo" />
 </p>
 
 ---
