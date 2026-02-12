@@ -13,7 +13,7 @@
 
 ---
 
-## Tecnologias em estudo
+## Tecnologias em estudo:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,python,html,css,javascript,java,django,tailwindt" alt="Tecnologias em estudo" />
@@ -21,7 +21,7 @@
 
 ---
 
-## Redes para contato
+## Redes para contato:
 
 <p align="left">
   <a href="mailto:t.thais@escolar.ifrn.edu.br" target="_blank">
