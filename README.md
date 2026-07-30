@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Olá! Eu sou <a href="https://github.com/rubythais">Tâmara Thaís :)) </a></h1>
+  <h1 align="center">Olá! Eu sou <a href="https://github.com/rubythais">Tâmara Thaís :) </a></h1>
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
