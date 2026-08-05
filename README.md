@@ -31,13 +31,7 @@ Também tenho paixão por audiovisual e design, então me mergulho nesses dois m
   <img src="https://img.shields.io/badge/Fluig-TOTVS-5b89b9?style=for-the-badge" alt="Fluig TOTVS"/>
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Gráfico de contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubythais&theme=merko&hide_border=true&bg_color=0d1117&color=9D50BB&line=6E48AA" alt="Gráfico de atividade" />
-</p>
+--
 
 ---
 
