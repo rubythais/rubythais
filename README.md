@@ -10,7 +10,7 @@
 
 <p>
 Sou Técnica em Sistemas de Energias Renováveis e atualmente graduanda no curso de Análise e Desenvolvimento de Sistemas.  
-Atuo como <strong>bolsista na área de Processos na Strategi Consultoria</strong> e como <strong> Suporte em Infraestrutura de Nuvem (AWS) na Veezor!</strong>.  
+Atuo como <strong>bolsista na área de Processos na Strategi Consultoria</strong>!</strong>  
 Também tenho paixão por audiovisual e design, então me mergulho nesses dois mundos!
 </p>
 
